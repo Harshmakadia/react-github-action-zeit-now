@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hello World! <span>🤩</span> <br/>
-        Greeting from Harsh Makadia!  <span>🧨</span>
+        Hello World! <span role="img" aria-label="emoji">🤩</span> <br/>
+        Greeting from Harsh Makadia!  <span role="img" aria-label="emoji-1">🧨</span>
       </header>
     </div>
   );
